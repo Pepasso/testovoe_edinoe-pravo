@@ -381,6 +381,7 @@ h6 {
 .slider-item__avatar img {
   height: 118px;
   width: 118px;
+  border-radius: 50%;
 }
 
 .slider-item__offline {
